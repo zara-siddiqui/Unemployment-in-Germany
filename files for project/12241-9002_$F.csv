@@ -1,0 +1,75 @@
+GENESIS-Tabelle: 12241-9002
+EU-SILC - Erfasste und hochgerechnete Personen ab 16 Jahren,;;;;;
+Nettoäquivalenzeinkommen, Armutsgefährdungsquote:;;;;;
+Deutschland, Jahre (bis 2019), Erwerbsstatus;;;;;
+Einkommen und Lebensbedingungen (EU-SILC);;;;;
+Deutschland;;;;;
+;;Erfasste Personen ab 16 Jahren;Hochgerechnete Personen ab 16 Jahren;Nettoäquivalenzeinkommen (Median) v.Pers. ab 16 J.;Armutsgefährdungsquote von Personen ab 16 Jahren
+;;Anzahl;1000;EUR/Jahr;Prozent
+2010;Erwerbstätige;11972;35756;21486;7,2
+2010;Nichterwerbstätige;11377;32731;15934;23,6
+2010;Arbeitslose;1040;3752;9016;70,0
+2010;Rentner und Pensionäre;6610;17465;16953;13,4
+2010;Sonstige Nichterwerbstätige;3727;11514;16280;24,1
+2010;Insgesamt;23531;69022;18693;15,1
+2011;Erwerbstätige;12301;36237;21984;7,7
+2011;Nichterwerbstätige;11785;32416;16242;23,5
+2011;Arbeitslose;1030;3383;9485;67,8
+2011;Rentner und Pensionäre;7005;17207;17183;14,0
+2011;Sonstige Nichterwerbstätige;3750;11825;16450;24,7
+2011;Insgesamt;24220;69063;19053;15,2
+2012;Erwerbstätige;12144;36913;22359;7,8
+2012;Nichterwerbstätige;11321;32017;16638;23,9
+2012;Arbeitslose;897;3081;9427;69,3
+2012;Rentner und Pensionäre;6966;17255;17397;15,1
+2012;Sonstige Nichterwerbstätige;3458;11681;17097;24,8
+2012;Insgesamt;23587;69273;19490;15,3
+2013;Erwerbstätige;11542;36126;22157;8,6
+2013;Nichterwerbstätige;10949;31465;16618;23,7
+2013;Arbeitslose;856;2978;9754;69,3
+2013;Rentner und Pensionäre;6802;17126;17562;15,0
+2013;Sonstige Nichterwerbstätige;3291;11361;16910;24,7
+2013;Insgesamt;22585;67893;19468;15,7
+2014;Erwerbstätige;11390;36351;22295;9,9
+2014;Nichterwerbstätige;11201;31561;16580;25,3
+2014;Arbeitslose;860;3115;9780;67,4
+2014;Rentner und Pensionäre;7019;17087;17680;16,7
+2014;Sonstige Nichterwerbstätige;3322;11358;16848;26,6
+2014;Insgesamt;22695;68250;19427;17,1
+2015;Erwerbstätige;11408;36787;23142;9,7
+2015;Nichterwerbstätige;11248;31676;17203;25,5
+2015;Arbeitslose;858;2960;10224;69,0
+2015;Rentner und Pensionäre;7110;17436;18083;17,0
+2015;Sonstige Nichterwerbstätige;3280;11280;17508;27,1
+2015;Insgesamt;22765;68837;20280;17,1
+2016;Erwerbstätige;11538;37266;23586;9,5
+2016;Nichterwerbstätige;11540;31719;17354;26,2
+2016;Arbeitslose;830;2822;10422;70,5
+2016;Rentner und Pensionäre;7379;17200;18265;18,0
+2016;Sonstige Nichterwerbstätige;3331;11696;17666;27,5
+2016;Insgesamt;23188;69322;20633;17,2
+2017;Erwerbstätige;11611;37753;23988;9,1
+2017;Nichterwerbstätige;11390;31434;17823;26,4
+2017;Arbeitslose;731;2770;10500;70,6
+2017;Rentner und Pensionäre;7411;17174;18863;17,5
+2017;Sonstige Nichterwerbstätige;3248;11489;17799;29,1
+2017;Insgesamt;23102;69517;21092;17,0
+2018;Erwerbstätige;11210;38142;24799;9,1
+2018;Nichterwerbstätige;10634;31068;18471;26,1
+2018;Arbeitslose;607;2564;10800;69,3
+2018;Rentner und Pensionäre;6988;17191;19236;18,7
+2018;Sonstige Nichterwerbstätige;3039;11313;18831;27,4
+2018;Insgesamt;21948;69609;21719;16,7
+2019;Erwerbstätige;10617;38868;25937;8,1
+2019;Nichterwerbstätige;10199;30320;19317;24,5
+2019;Arbeitslose;491;2113;10703;73,8
+2019;Rentner und Pensionäre;6854;17042;20017;18,4
+2019;Sonstige Nichterwerbstätige;2854;11164;19622;24,5
+2019;Insgesamt;20899;69509;22913;15,3
+__________
+"Armutsgefährdungsquote:
+Anteil der Bevölkerung mit einem Nettoäquivalenzeinkommen
+(nach Sozialleistungen) unterhalb 60 % des Medians des
+Nettoäquivalenzeinkommens der gesamten Bevölkerung."
+© Statistisches Bundesamt (Destatis), 2023
+Stand: 12.02.2024 / 12:36:21

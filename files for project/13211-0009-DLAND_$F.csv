@@ -1,0 +1,33 @@
+GENESIS-Tabelle: 13211-0009
+Arbeitslose: Bundesländer, Jahre, Geschlecht;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Arbeitsmarktstatistik der Bundesagentur für Arbeit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Baden-Württemberg;Baden-Württemberg;Baden-Württemberg;Bayern;Bayern;Bayern;Berlin;Berlin;Berlin;Brandenburg;Brandenburg;Brandenburg;Bremen;Bremen;Bremen;Hamburg;Hamburg;Hamburg;Hessen;Hessen;Hessen;Mecklenburg-Vorpommern;Mecklenburg-Vorpommern;Mecklenburg-Vorpommern;Niedersachsen;Niedersachsen;Niedersachsen;Nordrhein-Westfalen;Nordrhein-Westfalen;Nordrhein-Westfalen;Rheinland-Pfalz;Rheinland-Pfalz;Rheinland-Pfalz;Saarland;Saarland;Saarland;Sachsen;Sachsen;Sachsen;Sachsen-Anhalt;Sachsen-Anhalt;Sachsen-Anhalt;Schleswig-Holstein;Schleswig-Holstein;Schleswig-Holstein;Thüringen;Thüringen;Thüringen
+;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose;Arbeitslose
+;Insgesamt;männlich;weiblich;Insgesamt;männlich;weiblich;Insgesamt;männlich;weiblich;Insgesamt;männlich;weiblich;Insgesamt;männlich;weiblich;Insgesamt;männlich;weiblich;Insgesamt;männlich;weiblich;Insgesamt;männlich;weiblich;Insgesamt;männlich;weiblich;Insgesamt;männlich;weiblich;Insgesamt;männlich;weiblich;Insgesamt;männlich;weiblich;Insgesamt;männlich;weiblich;Insgesamt;männlich;weiblich;Insgesamt;männlich;weiblich;Insgesamt;männlich;weiblich
+;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl
+2013;233956;122640;111316;264532;141038;123494;210093;118024;92069;132329;73199;59130;37198;20403;16795;71560;39540;32019;185612;99137;86475;98952;55689;43263;269207;143685;125522;762784;412902;349882;116360;62318;54042;37383;20268;17116;200628;109682;90946;132134;71391;60743;101751;55807;45944;95858;51381;44478
+2014;230372;120526;109846;264603;141389;123215;202927;113776;89151;124628;68566;56062;37091;20363;16727;73663;40366;33297;184378;98132;86245;93067;52131;40936;267624;143007;124617;763213;412016;351198;115741;61998;53744;36911;19884;17027;187494;101762;85732;125559;67537;58023;100957;55377;45580;90160;48245;41915
+2015;227098;120107;106992;256527;138845;117681;194812;109090;85722;114873;63106;51766;37355;20666;16689;73291;40364;32927;177944;94780;83164;86095;48181;37914;256434;138234;118200;744228;403829;340398;112882;60737;52144;36895;20260;16635;174319;94799;79519;118852;64037;54815;97850;54259;43591;85212;45916;39296
+2016;226421;122670;103750;250623;138617;112005;181018;101541;79477;105555;58983;46572;36393;20244;16149;70666;39112;31554;172826;93033;79794;80389;45597;34792;252574;138936;113638;725653;398762;326890;111436;60978;50458;37103;20902;16201;157862;87568;70297;110263;60401;49862;94977;53069;41908;77215;42308;34907
+2017;212837;115764;97072;231353;127143;104209;168991;95326;73665;92648;52018;40630;35687;19880;15807;69248;38390;30858;166287;90225;76061;70982;40382;30600;244260;134198;110061;701219;385707;315511;106299;58132;48166;34672;19531;15142;140348;78430;61917;96960;53320;43640;92434;51717;40716;68614;37947;30667
+2018;195128;105872;89256;214017;117629;96387;156230;88385;67845;83669;47056;36613;34904;19580;15324;65589;36434;29155;154337;84123;70215;64993;36780;28213;227834;125445;102388;650768;356421;294346;98764;54035;44729;32233;18236;13997;126311;71299;55011;88106;48971;39135;85053;47380;37673;62145;34477;27669
+2019;196950;108946;88003;211965;118211;93753;152565;86050;66514;76888;43507;33380;35702;20196;15506;64774;36056;28718;149812;82552;67260;58485;33243;25242;218123;120945;97178;635486;350949;284536;97717;54010;43707;32854;18835;14019;116051;66265;49786;80608;45256;35352;79678;44615;35062;59065;33250;25815
+2020;259940;146759;113179;275075;155602;119474;192644;108274;84368;82491;47193;35298;40822;23340;17482;80677;44665;36011;184955;103192;81762;63850;36631;27219;251377;141307;110070;733740;411522;322216;117912;66055;51857;38364;22502;15862;128669;74238;54431;86110;49254;36856;92140;52028;40112;66678;38036;28642
+2021;247774;136937;110836;262186;145704;116482;198401;111138;87259;78463;44775;33688;39292;22126;17166;80395;43751;36644;178086;97781;80304;62410;35804;26605;243021;135204;107815;718220;396699;321519;112137;61853;50284;36156;20791;15366;124743;71067;53676;81093;46153;34940;88865;49693;39172;62249;35069;27180
+2022;223119;118857;104261;235851;126155;109695;179327;98020;81305;74242;41506;32736;37214;20410;16804;73800;39453;34346;164492;87414;77078;59571;33412;26159;230553;125160;105392;668502;362081;306420;102515;55337;47178;33017;18569;14449;118216;65331;52885;77978;43843;34135;81564;44848;36716;58172;32190;25983
+__________
+"Quelle: Bundesagentur für Arbeit, Nürnberg
+
+Ab Januar 2005 sind die Daten über registrierte Arbeitslose
+der Bundesagentur für Arbeit auf Grund der Zusammenlegung
+von Arbeitslosen- und Sozialhilfe mit früheren Daten nicht
+mehr vergleichbar. Beachten Sie bitte hierzu die
+Informationen zur Arbeitsmarktstatistik der Bundesagentur
+für Arbeit (Code: 13211).
+
+Ab September 2005 sind die Angaben der Bundesagentur für
+Arbeit für das Merkmal Geschlecht nicht mehr vollständig,
+d.h über die Ausprägungen ""männlich"" und ""weiblich"" kann
+nicht mehr summiert werden."
+© Statistisches Bundesamt (Destatis), 2024
+Stand: 12.02.2024 / 12:34:34

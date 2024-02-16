@@ -1,0 +1,697 @@
+gender,age,year,population,employed_people,unemployed_people
+Male,under 15 years,1991-04,6701,x,x
+Male,under 15 years,1992-05,6740,x,x
+Male,under 15 years,1993-04,6765,x,x
+Male,under 15 years,1994-04,6772,x,x
+Male,under 15 years,1995-04,6772,x,x
+Male,under 15 years,1996-04,6692,x,x
+Male,under 15 years,1997-04,6601,x,x
+Male,under 15 years,1998-04,6545,x,x
+Male,under 15 years,1999-04,6458,x,x
+Male,under 15 years,2000-05,6469,x,x
+Male,under 15 years,2001-04,6392,x,x
+Male,under 15 years,2002-04,6348,x,x
+Male,under 15 years,2003-05,6224,x,x
+Male,under 15 years,2004-03,6064,x,x
+Male,under 15 years,2005,5889,x,x
+Male,under 15 years,2006,5772,/,/
+Male,under 15 years,2007,5675,x,x
+Male,under 15 years,2008,5603,x,x
+Male,under 15 years,2009,5525,x,x
+Male,under 15 years,2010,5473,x,x
+Male,under 15 years,2011,5533,x,x
+Male,under 15 years,2012,5496,x,x
+Male,under 15 years,2013,5450,x,x
+Male,under 15 years,2014,5429,x,x
+Male,under 15 years,2015,5410,x,x
+Male,under 15 years,2016,5629,x,x
+Male,under 15 years,2017,5681,x,x
+Male,under 15 years,2018,5565,x,x
+Male,under 15 years,2019,5742,x,x
+Male,15 to under 20 years,1991-04,2215,927,60
+Male,15 to under 20 years,1992-05,2173,852,56
+Male,15 to under 20 years,1993-04,2203,802,64
+Male,15 to under 20 years,1994-04,2231,773,66
+Male,15 to under 20 years,1995-04,2258,749,67
+Male,15 to under 20 years,1996-04,2318,737,72
+Male,15 to under 20 years,1997-04,2363,745,81
+Male,15 to under 20 years,1998-04,2377,757,81
+Male,15 to under 20 years,1999-04,2428,808,76
+Male,15 to under 20 years,2000-05,2393,799,71
+Male,15 to under 20 years,2001-04,2357,751,72
+Male,15 to under 20 years,2002-04,2365,732,72
+Male,15 to under 20 years,2003-05,2399,718,93
+Male,15 to under 20 years,2004-03,2410,695,99
+Male,15 to under 20 years,2005,2551,728,120
+Male,15 to under 20 years,2006,2516,731,119
+Male,15 to under 20 years,2007,2508,765,110
+Male,15 to under 20 years,2008,2425,770,92
+Male,15 to under 20 years,2009,2323,717,87
+Male,15 to under 20 years,2010,2210,664,78
+Male,15 to under 20 years,2011,2066,615,66
+Male,15 to under 20 years,2012,2051,577,57
+Male,15 to under 20 years,2013,2057,582,56
+Male,15 to under 20 years,2014,2069,580,57
+Male,15 to under 20 years,2015,2120,573,48
+Male,15 to under 20 years,2016,2194,619,54
+Male,15 to under 20 years,2017,2132,607,57
+Male,15 to under 20 years,2018,2093,605,52
+Male,15 to under 20 years,2019,2062,620,50
+Male,20 to under 25 years,1991-04,3094,2324,143
+Male,20 to under 25 years,1992-05,2949,2181,160
+Male,20 to under 25 years,1993-04,2806,1990,215
+Male,20 to under 25 years,1994-04,2603,1815,228
+Male,20 to under 25 years,1995-04,2467,1731,186
+Male,20 to under 25 years,1996-04,2367,1639,207
+Male,20 to under 25 years,1997-04,2290,1546,226
+Male,20 to under 25 years,1998-04,2269,1555,214
+Male,20 to under 25 years,1999-04,2255,1573,190
+Male,20 to under 25 years,2000-05,2308,1602,186
+Male,20 to under 25 years,2001-04,2349,1640,192
+Male,20 to under 25 years,2002-04,2355,1562,235
+Male,20 to under 25 years,2003-05,2412,1543,282
+Male,20 to under 25 years,2004-03,2416,1469,319
+Male,20 to under 25 years,2005,2525,1545,316
+Male,20 to under 25 years,2006,2513,1594,267
+Male,20 to under 25 years,2007,2517,1652,224
+Male,20 to under 25 years,2008,2517,1680,200
+Male,20 to under 25 years,2009,2510,1625,232
+Male,20 to under 25 years,2010,2512,1643,191
+Male,20 to under 25 years,2011,2438,1638,158
+Male,20 to under 25 years,2012,2411,1585,148
+Male,20 to under 25 years,2013,2368,1552,141
+Male,20 to under 25 years,2014,2320,1508,134
+Male,20 to under 25 years,2015,2247,1450,125
+Male,20 to under 25 years,2016,2304,1471,124
+Male,20 to under 25 years,2017,2326,1505,117
+Male,20 to under 25 years,2018,2311,1539,111
+Male,20 to under 25 years,2019,2314,1596,106
+Male,25 to under 30 years,1991-04,3426,2860,171
+Male,25 to under 30 years,1992-05,3452,2851,195
+Male,25 to under 30 years,1993-04,3485,2788,253
+Male,25 to under 30 years,1994-04,3406,2687,280
+Male,25 to under 30 years,1995-04,3284,2617,245
+Male,25 to under 30 years,1996-04,3174,2479,261
+Male,25 to under 30 years,1997-04,3041,2384,277
+Male,25 to under 30 years,1998-04,2838,2238,245
+Male,25 to under 30 years,1999-04,2616,2086,221
+Male,25 to under 30 years,2000-05,2423,1963,180
+Male,25 to under 30 years,2001-04,2324,1864,186
+Male,25 to under 30 years,2002-04,2216,1721,212
+Male,25 to under 30 years,2003-05,2248,1693,257
+Male,25 to under 30 years,2004-03,2261,1664,290
+Male,25 to under 30 years,2005,2444,1808,285
+Male,25 to under 30 years,2006,2506,1896,267
+Male,25 to under 30 years,2007,2457,1907,222
+Male,25 to under 30 years,2008,2486,1965,191
+Male,25 to under 30 years,2009,2540,1971,236
+Male,25 to under 30 years,2010,2517,1975,211
+Male,25 to under 30 years,2011,2402,1923,162
+Male,25 to under 30 years,2012,2424,1957,148
+Male,25 to under 30 years,2013,2452,1972,157
+Male,25 to under 30 years,2014,2533,2033,150
+Male,25 to under 30 years,2015,2615,2102,149
+Male,25 to under 30 years,2016,2814,2255,144
+Male,25 to under 30 years,2017,2768,2238,135
+Male,25 to under 30 years,2018,2650,2185,122
+Male,25 to under 30 years,2019,2567,2155,104
+Male,30 to under 35 years,1991-04,3089,2823,153
+Male,30 to under 35 years,1992-05,3180,2883,176
+Male,30 to under 35 years,1993-04,3320,2967,229
+Male,30 to under 35 years,1994-04,3415,3018,266
+Male,30 to under 35 years,1995-04,3501,3110,249
+Male,30 to under 35 years,1996-04,3512,3087,263
+Male,30 to under 35 years,1997-04,3516,3066,293
+Male,30 to under 35 years,1998-04,3489,3049,285
+Male,30 to under 35 years,1999-04,3401,3003,262
+Male,30 to under 35 years,2000-05,3281,2932,214
+Male,30 to under 35 years,2001-04,3130,2778,222
+Male,30 to under 35 years,2002-04,3033,2651,257
+Male,30 to under 35 years,2003-05,2856,2449,290
+Male,30 to under 35 years,2004-03,2653,2240,292
+Male,30 to under 35 years,2005,2591,2192,262
+Male,30 to under 35 years,2006,2450,2100,233
+Male,30 to under 35 years,2007,2393,2081,190
+Male,30 to under 35 years,2008,2357,2059,170
+Male,30 to under 35 years,2009,2373,2041,196
+Male,30 to under 35 years,2010,2432,2111,178
+Male,30 to under 35 years,2011,2394,2112,140
+Male,30 to under 35 years,2012,2441,2166,131
+Male,30 to under 35 years,2013,2485,2189,138
+Male,30 to under 35 years,2014,2542,2244,139
+Male,30 to under 35 years,2015,2581,2278,137
+Male,30 to under 35 years,2016,2674,2346,124
+Male,30 to under 35 years,2017,2695,2380,120
+Male,30 to under 35 years,2018,2705,2405,108
+Male,30 to under 35 years,2019,2766,2479,104
+Male,35 to under 40 years,1991-04,2798,2599,136
+Male,35 to under 40 years,1992-05,2880,2653,160
+Male,35 to under 40 years,1993-04,2941,2668,196
+Male,35 to under 40 years,1994-04,3010,2708,222
+Male,35 to under 40 years,1995-04,3094,2791,214
+Male,35 to under 40 years,1996-04,3191,2847,229
+Male,35 to under 40 years,1997-04,3255,2873,270
+Male,35 to under 40 years,1998-04,3322,2942,268
+Male,35 to under 40 years,1999-04,3417,3070,247
+Male,35 to under 40 years,2000-05,3509,3159,240
+Male,35 to under 40 years,2001-04,3548,3182,254
+Male,35 to under 40 years,2002-04,3535,3132,291
+Male,35 to under 40 years,2003-05,3501,3068,325
+Male,35 to under 40 years,2004-03,3407,2958,342
+Male,35 to under 40 years,2005,3395,2959,304
+Male,35 to under 40 years,2006,3278,2886,273
+Male,35 to under 40 years,2007,3111,2781,218
+Male,35 to under 40 years,2008,2956,2657,182
+Male,35 to under 40 years,2009,2729,2430,180
+Male,35 to under 40 years,2010,2581,2286,176
+Male,35 to under 40 years,2011,2392,2159,119
+Male,35 to under 40 years,2012,2339,2113,116
+Male,35 to under 40 years,2013,2340,2111,108
+Male,35 to under 40 years,2014,2420,2177,114
+Male,35 to under 40 years,2015,2468,2219,113
+Male,35 to under 40 years,2016,2563,2294,106
+Male,35 to under 40 years,2017,2630,2372,100
+Male,35 to under 40 years,2018,2652,2405,96
+Male,35 to under 40 years,2019,2666,2426,88
+Male,40 to under 45 years,1991-04,2664,2485,115
+Male,40 to under 45 years,1992-05,2747,2540,140
+Male,40 to under 45 years,1993-04,2830,2583,172
+Male,40 to under 45 years,1994-04,2851,2582,201
+Male,40 to under 45 years,1995-04,2847,2569,198
+Male,40 to under 45 years,1996-04,2904,2591,209
+Male,40 to under 45 years,1997-04,2925,2584,240
+Male,40 to under 45 years,1998-04,2968,2611,249
+Male,40 to under 45 years,1999-04,3043,2695,232
+Male,40 to under 45 years,2000-05,3108,2769,224
+Male,40 to under 45 years,2001-04,3206,2856,237
+Male,40 to under 45 years,2002-04,3312,2913,282
+Male,40 to under 45 years,2003-05,3415,2966,322
+Male,40 to under 45 years,2004-03,3498,3008,359
+Male,40 to under 45 years,2005,3668,3174,333
+Male,40 to under 45 years,2006,3706,3262,290
+Male,40 to under 45 years,2007,3722,3321,239
+Male,40 to under 45 years,2008,3686,3315,208
+Male,40 to under 45 years,2009,3628,3231,225
+Male,40 to under 45 years,2010,3495,3131,200
+Male,40 to under 45 years,2011,3275,2972,149
+Male,40 to under 45 years,2012,3120,2838,128
+Male,40 to under 45 years,2013,2978,2705,121
+Male,40 to under 45 years,2014,2775,2524,110
+Male,40 to under 45 years,2015,2637,2382,96
+Male,40 to under 45 years,2016,2556,2298,89
+Male,40 to under 45 years,2017,2469,2232,79
+Male,40 to under 45 years,2018,2457,2238,73
+Male,40 to under 45 years,2019,2525,2305,71
+Male,45 to under 50 years,1991-04,2575,2372,111
+Male,45 to under 50 years,1992-05,2437,2230,115
+Male,45 to under 50 years,1993-04,2404,2181,134
+Male,45 to under 50 years,1994-04,2405,2146,169
+Male,45 to under 50 years,1995-04,2483,2214,173
+Male,45 to under 50 years,1996-04,2682,2365,191
+Male,45 to under 50 years,1997-04,2777,2427,227
+Male,45 to under 50 years,1998-04,2836,2457,242
+Male,45 to under 50 years,1999-04,2867,2508,227
+Male,45 to under 50 years,2000-05,2850,2497,217
+Male,45 to under 50 years,2001-04,2890,2512,236
+Male,45 to under 50 years,2002-04,2946,2541,266
+Male,45 to under 50 years,2003-05,2959,2520,299
+Male,45 to under 50 years,2004-03,3038,2557,334
+Male,45 to under 50 years,2005,3063,2595,296
+Male,45 to under 50 years,2006,3136,2689,269
+Male,45 to under 50 years,2007,3175,2780,217
+Male,45 to under 50 years,2008,3310,2924,195
+Male,45 to under 50 years,2009,3394,2974,215
+Male,45 to under 50 years,2010,3471,3060,198
+Male,45 to under 50 years,2011,3445,3078,160
+Male,45 to under 50 years,2012,3453,3099,137
+Male,45 to under 50 years,2013,3437,3090,130
+Male,45 to under 50 years,2014,3376,3028,126
+Male,45 to under 50 years,2015,3313,2993,115
+Male,45 to under 50 years,2016,3200,2899,93
+Male,45 to under 50 years,2017,3060,2781,85
+Male,45 to under 50 years,2018,2851,2589,78
+Male,45 to under 50 years,2019,2700,2461,68
+Male,50 to under 55 years,1991-04,3196,2842,142
+Male,50 to under 55 years,1992-05,3275,2885,169
+Male,50 to under 55 years,1993-04,3197,2772,200
+Male,50 to under 55 years,1994-04,3055,2610,221
+Male,50 to under 55 years,1995-04,2823,2393,220
+Male,50 to under 55 years,1996-04,2565,2133,213
+Male,50 to under 55 years,1997-04,2426,1998,218
+Male,50 to under 55 years,1998-04,2389,1961,218
+Male,50 to under 55 years,1999-04,2384,1975,207
+Male,50 to under 55 years,2000-05,2486,2074,206
+Male,50 to under 55 years,2001-04,2698,2234,226
+Male,50 to under 55 years,2002-04,2754,2261,258
+Male,50 to under 55 years,2003-05,2775,2245,303
+Male,50 to under 55 years,2004-03,2807,2240,331
+Male,50 to under 55 years,2005,2751,2222,284
+Male,50 to under 55 years,2006,2807,2297,265
+Male,50 to under 55 years,2007,2858,2397,215
+Male,50 to under 55 years,2008,2910,2456,188
+Male,50 to under 55 years,2009,2965,2491,200
+Male,50 to under 55 years,2010,3038,2568,184
+Male,50 to under 55 years,2011,3035,2615,148
+Male,50 to under 55 years,2012,3168,2752,140
+Male,50 to under 55 years,2013,3229,2803,140
+Male,50 to under 55 years,2014,3293,2856,136
+Male,50 to under 55 years,2015,3395,2974,124
+Male,50 to under 55 years,2016,3517,3104,114
+Male,50 to under 55 years,2017,3510,3134,96
+Male,50 to under 55 years,2018,3480,3124,85
+Male,50 to under 55 years,2019,3411,3073,77
+Male,55 to under 60 years,1991-04,2445,1784,166
+Male,55 to under 60 years,1992-05,2594,1738,186
+Male,55 to under 60 years,1993-04,2794,1771,254
+Male,55 to under 60 years,1994-04,2966,1887,324
+Male,55 to under 60 years,1995-04,3104,1991,362
+Male,55 to under 60 years,1996-04,3157,2004,407
+Male,55 to under 60 years,1997-04,3223,2042,476
+Male,55 to under 60 years,1998-04,3124,2002,471
+Male,55 to under 60 years,1999-04,3000,1941,446
+Male,55 to under 60 years,2000-05,2765,1826,350
+Male,55 to under 60 years,2001-04,2526,1689,313
+Male,55 to under 60 years,2002-04,2375,1632,276
+Male,55 to under 60 years,2003-05,2335,1609,297
+Male,55 to under 60 years,2004-03,2356,1634,302
+Male,55 to under 60 years,2005,2392,1707,254
+Male,55 to under 60 years,2006,2563,1843,258
+Male,55 to under 60 years,2007,2610,1942,216
+Male,55 to under 60 years,2008,2664,2034,184
+Male,55 to under 60 years,2009,2689,2068,183
+Male,55 to under 60 years,2010,2709,2106,181
+Male,55 to under 60 years,2011,2633,2099,142
+Male,55 to under 60 years,2012,2683,2159,131
+Male,55 to under 60 years,2013,2741,2208,136
+Male,55 to under 60 years,2014,2837,2312,123
+Male,55 to under 60 years,2015,2933,2389,123
+Male,55 to under 60 years,2016,3043,2547,99
+Male,55 to under 60 years,2017,3130,2641,88
+Male,55 to under 60 years,2018,3257,2765,82
+Male,55 to under 60 years,2019,3336,2857,80
+Male,60 to under 65 years,1991-04,2162,673,51
+Male,60 to under 65 years,1992-05,2191,624,62
+Male,60 to under 65 years,1993-04,2185,588,71
+Male,60 to under 65 years,1994-04,2162,569,71
+Male,60 to under 65 years,1995-04,2209,578,73
+Male,60 to under 65 years,1996-04,2303,608,68
+Male,60 to under 65 years,1997-04,2441,657,69
+Male,60 to under 65 years,1998-04,2618,708,79
+Male,60 to under 65 years,1999-04,2785,762,110
+Male,60 to under 65 years,2000-05,2943,818,107
+Male,60 to under 65 years,2001-04,2987,870,114
+Male,60 to under 65 years,2002-04,3034,928,136
+Male,60 to under 65 years,2003-05,2925,910,160
+Male,60 to under 65 years,2004-03,2842,932,174
+Male,60 to under 65 years,2005,2450,877,117
+Male,60 to under 65 years,2006,2240,842,105
+Male,60 to under 65 years,2007,2183,896,88
+Male,60 to under 65 years,2008,2146,923,77
+Male,60 to under 65 years,2009,2157,1008,82
+Male,60 to under 65 years,2010,2237,1094,99
+Male,60 to under 65 years,2011,2335,1217,88
+Male,60 to under 65 years,2012,2403,1313,97
+Male,60 to under 65 years,2013,2472,1419,99
+Male,60 to under 65 years,2014,2502,1477,97
+Male,60 to under 65 years,2015,2525,1485,90
+Male,60 to under 65 years,2016,2593,1584,79
+Male,60 to under 65 years,2017,2584,1646,75
+Male,60 to under 65 years,2018,2651,1736,68
+Male,60 to under 65 years,2019,2730,1819,64
+Male,65 years and over,1991-04,4184,186,/
+Male,65 years and over,1992-05,4335,187,/
+Male,65 years and over,1993-04,4451,185,/
+Male,65 years and over,1994-04,4656,192,/
+Male,65 years and over,1995-04,4828,195,/
+Male,65 years and over,1996-04,4976,216,/
+Male,65 years and over,1997-04,5112,227,/
+Male,65 years and over,1998-04,5200,231,/
+Male,65 years and over,1999-04,5352,237,/
+Male,65 years and over,2000-05,5544,241,/
+Male,65 years and over,2001-04,5755,254,/
+Male,65 years and over,2002-04,6007,264,/
+Male,65 years and over,2003-05,6282,277,/
+Male,65 years and over,2004-03,6579,284,/
+Male,65 years and over,2005,6620,328,/
+Male,65 years and over,2006,6820,336,/
+Male,65 years and over,2007,7063,368,/
+Male,65 years and over,2008,7171,403,/
+Male,65 years and over,2009,7303,416,/
+Male,65 years and over,2010,7385,411,/
+Male,65 years and over,2011,7221,465,/
+Male,65 years and over,2012,7315,508,/
+Male,65 years and over,2013,7445,561,/
+Male,65 years and over,2014,7553,605,5
+Male,65 years and over,2015,7729,647,5
+Male,65 years and over,2016,7597,689,/
+Male,65 years and over,2017,7536,737,6
+Male,65 years and over,2018,7734,790,6
+Male,65 years and over,2019,7664,817,7
+Female,under 15 years,1991-04,6284,x,x
+Female,under 15 years,1992-05,6315,x,x
+Female,under 15 years,1993-04,6343,x,x
+Female,under 15 years,1994-04,6317,x,x
+Female,under 15 years,1995-04,6338,x,x
+Female,under 15 years,1996-04,6287,x,x
+Female,under 15 years,1997-04,6261,x,x
+Female,under 15 years,1998-04,6189,x,x
+Female,under 15 years,1999-04,6140,x,x
+Female,under 15 years,2000-05,6095,x,x
+Female,under 15 years,2001-04,6059,x,x
+Female,under 15 years,2002-04,5981,x,x
+Female,under 15 years,2003-05,5888,x,x
+Female,under 15 years,2004-03,5759,x,x
+Female,under 15 years,2005,5592,x,x
+Female,under 15 years,2006,5481,/,/
+Female,under 15 years,2007,5388,x,x
+Female,under 15 years,2008,5315,x,x
+Female,under 15 years,2009,5244,x,x
+Female,under 15 years,2010,5196,x,x
+Female,under 15 years,2011,5249,x,x
+Female,under 15 years,2012,5210,x,x
+Female,under 15 years,2013,5165,x,x
+Female,under 15 years,2014,5146,x,x
+Female,under 15 years,2015,5128,x,x
+Female,under 15 years,2016,5318,x,x
+Female,under 15 years,2017,5372,x,x
+Female,under 15 years,2018,5271,x,x
+Female,under 15 years,2019,5439,x,x
+Female,15 to under 20 years,1991-04,2097,716,65
+Female,15 to under 20 years,1992-05,2027,674,56
+Female,15 to under 20 years,1993-04,2010,625,56
+Female,15 to under 20 years,1994-04,2017,570,55
+Female,15 to under 20 years,1995-04,2067,530,64
+Female,15 to under 20 years,1996-04,2155,520,62
+Female,15 to under 20 years,1997-04,2241,545,78
+Female,15 to under 20 years,1998-04,2280,555,71
+Female,15 to under 20 years,1999-04,2286,586,66
+Female,15 to under 20 years,2000-05,2261,582,66
+Female,15 to under 20 years,2001-04,2228,589,60
+Female,15 to under 20 years,2002-04,2255,568,63
+Female,15 to under 20 years,2003-05,2264,547,69
+Female,15 to under 20 years,2004-03,2285,511,77
+Female,15 to under 20 years,2005,2370,537,98
+Female,15 to under 20 years,2006,2348,559,94
+Female,15 to under 20 years,2007,2304,594,89
+Female,15 to under 20 years,2008,2230,578,74
+Female,15 to under 20 years,2009,2152,535,72
+Female,15 to under 20 years,2010,2053,499,61
+Female,15 to under 20 years,2011,1948,489,55
+Female,15 to under 20 years,2012,1941,457,45
+Female,15 to under 20 years,2013,1933,476,41
+Female,15 to under 20 years,2014,1939,457,42
+Female,15 to under 20 years,2015,1935,457,40
+Female,15 to under 20 years,2016,1966,481,40
+Female,15 to under 20 years,2017,1942,489,42
+Female,15 to under 20 years,2018,1940,472,35
+Female,15 to under 20 years,2019,1939,490,33
+Female,20 to under 25 years,1991-04,2871,2016,163
+Female,20 to under 25 years,1992-05,2743,1856,190
+Female,20 to under 25 years,1993-04,2600,1680,212
+Female,20 to under 25 years,1994-04,2439,1573,205
+Female,20 to under 25 years,1995-04,2294,1445,179
+Female,20 to under 25 years,1996-04,2199,1352,159
+Female,20 to under 25 years,1997-04,2128,1289,158
+Female,20 to under 25 years,1998-04,2091,1281,142
+Female,20 to under 25 years,1999-04,2129,1337,135
+Female,20 to under 25 years,2000-05,2147,1344,128
+Female,20 to under 25 years,2001-04,2196,1387,122
+Female,20 to under 25 years,2002-04,2253,1372,149
+Female,20 to under 25 years,2003-05,2298,1387,175
+Female,20 to under 25 years,2004-03,2300,1324,192
+Female,20 to under 25 years,2005,2390,1371,213
+Female,20 to under 25 years,2006,2369,1400,188
+Female,20 to under 25 years,2007,2356,1429,163
+Female,20 to under 25 years,2008,2361,1464,153
+Female,20 to under 25 years,2009,2400,1481,147
+Female,20 to under 25 years,2010,2401,1484,130
+Female,20 to under 25 years,2011,2341,1482,111
+Female,20 to under 25 years,2012,2279,1419,102
+Female,20 to under 25 years,2013,2232,1400,102
+Female,20 to under 25 years,2014,2173,1362,96
+Female,20 to under 25 years,2015,2119,1324,83
+Female,20 to under 25 years,2016,2114,1327,77
+Female,20 to under 25 years,2017,2090,1346,71
+Female,20 to under 25 years,2018,2086,1350,63
+Female,20 to under 25 years,2019,2094,1370,60
+Female,25 to under 30 years,1991-04,3234,2227,217
+Female,25 to under 30 years,1992-05,3243,2216,267
+Female,25 to under 30 years,1993-04,3269,2188,291
+Female,25 to under 30 years,1994-04,3199,2146,292
+Female,25 to under 30 years,1995-04,3110,2087,261
+Female,25 to under 30 years,1996-04,2991,2031,214
+Female,25 to under 30 years,1997-04,2848,1939,218
+Female,25 to under 30 years,1998-04,2683,1824,194
+Female,25 to under 30 years,1999-04,2491,1734,169
+Female,25 to under 30 years,2000-05,2338,1638,138
+Female,25 to under 30 years,2001-04,2225,1555,141
+Female,25 to under 30 years,2002-04,2162,1501,141
+Female,25 to under 30 years,2003-05,2161,1471,172
+Female,25 to under 30 years,2004-03,2186,1447,186
+Female,25 to under 30 years,2005,2364,1541,194
+Female,25 to under 30 years,2006,2435,1646,197
+Female,25 to under 30 years,2007,2444,1682,174
+Female,25 to under 30 years,2008,2462,1729,148
+Female,25 to under 30 years,2009,2458,1753,148
+Female,25 to under 30 years,2010,2444,1768,132
+Female,25 to under 30 years,2011,2367,1762,111
+Female,25 to under 30 years,2012,2389,1767,111
+Female,25 to under 30 years,2013,2399,1782,111
+Female,25 to under 30 years,2014,2461,1842,103
+Female,25 to under 30 years,2015,2503,1888,98
+Female,25 to under 30 years,2016,2554,1927,91
+Female,25 to under 30 years,2017,2520,1899,82
+Female,25 to under 30 years,2018,2445,1876,72
+Female,25 to under 30 years,2019,2373,1829,65
+Female,30 to under 35 years,1991-04,3010,1985,207
+Female,30 to under 35 years,1992-05,3085,2006,265
+Female,30 to under 35 years,1993-04,3168,2028,302
+Female,30 to under 35 years,1994-04,3265,2115,316
+Female,30 to under 35 years,1995-04,3322,2158,287
+Female,30 to under 35 years,1996-04,3344,2228,252
+Female,30 to under 35 years,1997-04,3326,2216,268
+Female,30 to under 35 years,1998-04,3308,2248,265
+Female,30 to under 35 years,1999-04,3238,2269,236
+Female,30 to under 35 years,2000-05,3173,2238,215
+Female,30 to under 35 years,2001-04,3057,2179,195
+Female,30 to under 35 years,2002-04,2919,2091,199
+Female,30 to under 35 years,2003-05,2739,1955,218
+Female,30 to under 35 years,2004-03,2573,1785,221
+Female,30 to under 35 years,2005,2500,1661,196
+Female,30 to under 35 years,2006,2396,1676,169
+Female,30 to under 35 years,2007,2319,1646,150
+Female,30 to under 35 years,2008,2326,1640,137
+Female,30 to under 35 years,2009,2342,1691,134
+Female,30 to under 35 years,2010,2383,1730,129
+Female,30 to under 35 years,2011,2391,1787,112
+Female,30 to under 35 years,2012,2434,1837,99
+Female,30 to under 35 years,2013,2491,1888,105
+Female,30 to under 35 years,2014,2524,1915,102
+Female,30 to under 35 years,2015,2512,1915,91
+Female,30 to under 35 years,2016,2573,1952,90
+Female,30 to under 35 years,2017,2582,1980,74
+Female,30 to under 35 years,2018,2580,1989,70
+Female,30 to under 35 years,2019,2625,2033,69
+Female,35 to under 40 years,1991-04,2796,1942,157
+Female,35 to under 40 years,1992-05,2855,1942,225
+Female,35 to under 40 years,1993-04,2871,1916,249
+Female,35 to under 40 years,1994-04,2937,1956,269
+Female,35 to under 40 years,1995-04,2972,1985,260
+Female,35 to under 40 years,1996-04,3083,2101,235
+Female,35 to under 40 years,1997-04,3135,2111,281
+Female,35 to under 40 years,1998-04,3203,2188,279
+Female,35 to under 40 years,1999-04,3247,2287,246
+Female,35 to under 40 years,2000-05,3314,2380,237
+Female,35 to under 40 years,2001-04,3366,2455,230
+Female,35 to under 40 years,2002-04,3389,2455,252
+Female,35 to under 40 years,2003-05,3375,2443,277
+Female,35 to under 40 years,2004-03,3290,2362,271
+Female,35 to under 40 years,2005,3270,2330,243
+Female,35 to under 40 years,2006,3165,2299,230
+Female,35 to under 40 years,2007,3043,2260,186
+Female,35 to under 40 years,2008,2866,2137,158
+Female,35 to under 40 years,2009,2690,2007,145
+Female,35 to under 40 years,2010,2534,1895,128
+Female,35 to under 40 years,2011,2404,1831,104
+Female,35 to under 40 years,2012,2331,1783,99
+Female,35 to under 40 years,2013,2350,1805,87
+Female,35 to under 40 years,2014,2387,1848,84
+Female,35 to under 40 years,2015,2460,1926,78
+Female,35 to under 40 years,2016,2500,1935,77
+Female,35 to under 40 years,2017,2543,1985,70
+Female,35 to under 40 years,2018,2538,2002,63
+Female,35 to under 40 years,2019,2622,2098,58
+Female,40 to under 45 years,1991-04,2613,1837,132
+Female,40 to under 45 years,1992-05,2684,1880,190
+Female,40 to under 45 years,1993-04,2801,1947,232
+Female,40 to under 45 years,1994-04,2845,1980,243
+Female,40 to under 45 years,1995-04,2870,2031,229
+Female,40 to under 45 years,1996-04,2865,2034,213
+Female,40 to under 45 years,1997-04,2903,2062,237
+Female,40 to under 45 years,1998-04,2918,2077,244
+Female,40 to under 45 years,1999-04,3004,2190,233
+Female,40 to under 45 years,2000-05,3060,2279,203
+Female,40 to under 45 years,2001-04,3119,2347,212
+Female,40 to under 45 years,2002-04,3196,2395,242
+Female,40 to under 45 years,2003-05,3268,2449,273
+Female,40 to under 45 years,2004-03,3355,2497,290
+Female,40 to under 45 years,2005,3544,2662,295
+Female,40 to under 45 years,2006,3556,2722,271
+Female,40 to under 45 years,2007,3574,2765,228
+Female,40 to under 45 years,2008,3547,2769,199
+Female,40 to under 45 years,2009,3454,2713,186
+Female,40 to under 45 years,2010,3358,2674,154
+Female,40 to under 45 years,2011,3167,2558,124
+Female,40 to under 45 years,2012,3040,2465,112
+Female,40 to under 45 years,2013,2865,2327,99
+Female,40 to under 45 years,2014,2702,2183,93
+Female,40 to under 45 years,2015,2572,2076,81
+Female,40 to under 45 years,2016,2489,2040,66
+Female,40 to under 45 years,2017,2426,1983,61
+Female,40 to under 45 years,2018,2436,2010,52
+Female,40 to under 45 years,2019,2481,2062,57
+Female,45 to under 50 years,1991-04,2492,1688,126
+Female,45 to under 50 years,1992-05,2387,1601,160
+Female,45 to under 50 years,1993-04,2364,1574,175
+Female,45 to under 50 years,1994-04,2334,1553,190
+Female,45 to under 50 years,1995-04,2397,1608,202
+Female,45 to under 50 years,1996-04,2647,1802,198
+Female,45 to under 50 years,1997-04,2743,1886,233
+Female,45 to under 50 years,1998-04,2820,1967,234
+Female,45 to under 50 years,1999-04,2856,2045,218
+Female,45 to under 50 years,2000-05,2867,2095,204
+Female,45 to under 50 years,2001-04,2886,2149,197
+Female,45 to under 50 years,2002-04,2914,2174,217
+Female,45 to under 50 years,2003-05,2940,2180,242
+Female,45 to under 50 years,2004-03,2987,2201,268
+Female,45 to under 50 years,2005,3075,2301,247
+Female,45 to under 50 years,2006,3104,2360,232
+Female,45 to under 50 years,2007,3174,2454,210
+Female,45 to under 50 years,2008,3262,2551,186
+Female,45 to under 50 years,2009,3343,2620,187
+Female,45 to under 50 years,2010,3373,2686,165
+Female,45 to under 50 years,2011,3353,2709,133
+Female,45 to under 50 years,2012,3373,2752,125
+Female,45 to under 50 years,2013,3343,2744,116
+Female,45 to under 50 years,2014,3274,2690,107
+Female,45 to under 50 years,2015,3192,2636,99
+Female,45 to under 50 years,2016,3168,2669,74
+Female,45 to under 50 years,2017,3031,2561,65
+Female,45 to under 50 years,2018,2861,2417,54
+Female,45 to under 50 years,2019,2714,2302,46
+Female,50 to under 55 years,1991-04,3117,1866,169
+Female,50 to under 55 years,1992-05,3140,1856,240
+Female,50 to under 55 years,1993-04,3064,1795,277
+Female,50 to under 55 years,1994-04,2973,1759,273
+Female,50 to under 55 years,1995-04,2779,1672,246
+Female,50 to under 55 years,1996-04,2513,1518,200
+Female,50 to under 55 years,1997-04,2367,1433,215
+Female,50 to under 55 years,1998-04,2365,1446,213
+Female,50 to under 55 years,1999-04,2359,1492,199
+Female,50 to under 55 years,2000-05,2459,1589,196
+Female,50 to under 55 years,2001-04,2668,1755,207
+Female,50 to under 55 years,2002-04,2764,1848,223
+Female,50 to under 55 years,2003-05,2853,1927,252
+Female,50 to under 55 years,2004-03,2864,1946,269
+Female,50 to under 55 years,2005,2841,1980,243
+Female,50 to under 55 years,2006,2880,2029,238
+Female,50 to under 55 years,2007,2868,2078,192
+Female,50 to under 55 years,2008,2927,2162,172
+Female,50 to under 55 years,2009,2989,2231,161
+Female,50 to under 55 years,2010,3080,2341,149
+Female,50 to under 55 years,2011,3077,2386,126
+Female,50 to under 55 years,2012,3132,2441,121
+Female,50 to under 55 years,2013,3202,2522,113
+Female,50 to under 55 years,2014,3300,2627,109
+Female,50 to under 55 years,2015,3378,2705,102
+Female,50 to under 55 years,2016,3487,2821,90
+Female,50 to under 55 years,2017,3485,2858,74
+Female,50 to under 55 years,2018,3466,2862,63
+Female,50 to under 55 years,2019,3406,2835,56
+Female,55 to under 60 years,1991-04,2466,923,134
+Female,55 to under 60 years,1992-05,2595,932,150
+Female,55 to under 60 years,1993-04,2785,996,194
+Female,55 to under 60 years,1994-04,2940,1104,245
+Female,55 to under 60 years,1995-04,3065,1231,294
+Female,55 to under 60 years,1996-04,3113,1303,319
+Female,55 to under 60 years,1997-04,3161,1359,378
+Female,55 to under 60 years,1998-04,3053,1330,378
+Female,55 to under 60 years,1999-04,2923,1325,355
+Female,55 to under 60 years,2000-05,2733,1280,308
+Female,55 to under 60 years,2001-04,2491,1208,274
+Female,55 to under 60 years,2002-04,2348,1175,236
+Female,55 to under 60 years,2003-05,2302,1174,243
+Female,55 to under 60 years,2004-03,2324,1224,247
+Female,55 to under 60 years,2005,2410,1332,221
+Female,55 to under 60 years,2006,2593,1467,235
+Female,55 to under 60 years,2007,2684,1579,212
+Female,55 to under 60 years,2008,2738,1673,175
+Female,55 to under 60 years,2009,2750,1735,156
+Female,55 to under 60 years,2010,2766,1798,143
+Female,55 to under 60 years,2011,2741,1859,127
+Female,55 to under 60 years,2012,2798,1940,110
+Female,55 to under 60 years,2013,2842,2023,101
+Female,55 to under 60 years,2014,2897,2096,92
+Female,55 to under 60 years,2015,2981,2179,87
+Female,55 to under 60 years,2016,3085,2296,79
+Female,55 to under 60 years,2017,3133,2376,67
+Female,55 to under 60 years,2018,3257,2496,60
+Female,55 to under 60 years,2019,3356,2615,58
+Female,60 to under 65 years,1991-04,2384,237,18
+Female,60 to under 65 years,1992-05,2362,218,18
+Female,60 to under 65 years,1993-04,2308,210,17
+Female,60 to under 65 years,1994-04,2288,214,19
+Female,60 to under 65 years,1995-04,2341,237,20
+Female,60 to under 65 years,1996-04,2425,256,22
+Female,60 to under 65 years,1997-04,2534,277,25
+Female,60 to under 65 years,1998-04,2692,303,24
+Female,60 to under 65 years,1999-04,2880,341,29
+Female,60 to under 65 years,2000-05,3013,368,30
+Female,60 to under 65 years,2001-04,3062,416,40
+Female,60 to under 65 years,2002-04,3103,467,57
+Female,60 to under 65 years,2003-05,3034,482,67
+Female,60 to under 65 years,2004-03,2920,515,79
+Female,60 to under 65 years,2005,2537,526,57
+Female,60 to under 65 years,2006,2299,502,59
+Female,60 to under 65 years,2007,2252,559,57
+Female,60 to under 65 years,2008,2217,603,48
+Female,60 to under 65 years,2009,2217,673,54
+Female,60 to under 65 years,2010,2308,759,57
+Female,60 to under 65 years,2011,2415,878,58
+Female,60 to under 65 years,2012,2528,978,60
+Female,60 to under 65 years,2013,2633,1123,72
+Female,60 to under 65 years,2014,2644,1216,69
+Female,60 to under 65 years,2015,2702,1292,61
+Female,60 to under 65 years,2016,2707,1369,57
+Female,60 to under 65 years,2017,2716,1448,54
+Female,60 to under 65 years,2018,2782,1546,46
+Female,60 to under 65 years,2019,2836,1618,46
+Female,65 years and over,1991-04,7918,134,/
+Female,65 years and over,1992-05,8050,136,/
+Female,65 years and over,1993-04,8135,125,/
+Female,65 years and over,1994-04,8282,119,/
+Female,65 years and over,1995-04,8345,126,/
+Female,65 years and over,1996-04,8368,132,/
+Female,65 years and over,1997-04,8413,139,/
+Female,65 years and over,1998-04,8438,132,/
+Female,65 years and over,1999-04,8464,139,/
+Female,65 years and over,2000-05,8619,131,/
+Female,65 years and over,2001-04,8760,147,/
+Female,65 years and over,2002-04,8889,155,/
+Female,65 years and over,2003-05,9050,162,/
+Female,65 years and over,2004-03,9318,166,/
+Female,65 years and over,2005,9235,192,/
+Female,65 years and over,2006,9437,206,/
+Female,65 years and over,2007,9582,226,/
+Female,65 years and over,2008,9653,240,/
+Female,65 years and over,2009,9729,253,/
+Female,65 years and over,2010,9760,258,/
+Female,65 years and over,2011,9627,281,/
+Female,65 years and over,2012,9653,300,/
+Female,65 years and over,2013,9703,335,/
+Female,65 years and over,2014,9798,361,/
+Female,65 years and over,2015,9950,390,/
+Female,65 years and over,2016,9780,414,/
+Female,65 years and over,2017,9380,445,/
+Female,65 years and over,2018,9545,495,/
+Female,65 years and over,2019,9482,518,5
